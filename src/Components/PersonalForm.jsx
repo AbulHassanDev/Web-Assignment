@@ -4,7 +4,7 @@ const PersonalForm = () => {
 
     
     return (
-        //<h1>Personal Information</h1>
+        
         <form className="m-8 border w-[800px] p-4 shadow-sm">
             <h1 className='font-sans text-center text-3xl leading-loose'>Personal Information</h1>
             <label className="block mb-2" htmlFor="name">Name:</label>

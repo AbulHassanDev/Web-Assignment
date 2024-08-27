@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './Components/Home';
 import BioData from './Components/BioData';
 import CourseTable from './Components/CourseTable';
-import PersonalForm from './Components/Personalform';
+import PersonalForm from './Components/PersonalForm';
 
 
 function App() {
