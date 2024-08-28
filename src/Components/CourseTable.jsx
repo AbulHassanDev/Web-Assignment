@@ -6,7 +6,7 @@ const CourseTable = () => {
     <>
       <Navbar />
       <h1 className="font-sans text-3xl ml-8 mt-6 font-bold">Course Table</h1>
-      <table className="table-auto w-1/2 m-8 border-collapse border border-gray-400">
+      <table className="table-auto w-auto p-4 m-4 border-collapse border border-gray-400">
         <thead>
           <tr className="bg-gray-200">
             <th className="border border-gray-300 p-2">Name</th>
